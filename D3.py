@@ -95,4 +95,4 @@ else:
     st.write('관심분야 : 프로그래밍')
     st.write('중학교 시절부터 코딩에 관심을 가지고 Python, C, C# 등 다양한 프로그래밍 언어를 배움')
     st.subheader('Pygame을 사용해 만든 게임')
-    st.video('https://docs.streamlit.io/')
+    st.video('https://youtu.be/Ei2wPa0Mp5w')
